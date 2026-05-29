@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 
-#include "request.h"
+#include "response.h"
 
 #define MAX_ARG_COUNT 2
 #define MIN_ARG_COUNT 2
